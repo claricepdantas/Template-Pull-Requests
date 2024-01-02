@@ -1,13 +1,4 @@
 ---
-name: Feature request
-about: Suggest an idea for this project
-title: Features
-labels: ''
-assignees: claricepdantas
-
----
-
----
 name: Solicitação de Funcionalidade
 about: Sugira uma nova funcionalidade ou aprimoramento
 title: "[FUNCIONALIDADE] - "
