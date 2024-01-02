@@ -30,4 +30,4 @@ Incluir seções específicas, como testes realizados e checklist, incentiva a a
 
 O modelo pode incluir seções para destacar problemas, soluções e áreas que precisam de atenção especial. Isso ajuda na tomada de decisões informadas durante o processo de revisão.
 
-# Em resumo, ter um modelo de pull request não apenas melhora a eficiência operacional, mas também contribui para uma colaboração mais eficaz, rastreamento de alterações e documentação aprimorada em projetos de desenvolvimento de software.
+Em resumo, ter um modelo de pull request não apenas melhora a eficiência operacional, mas também contribui para uma colaboração mais eficaz, rastreamento de alterações e documentação aprimorada em projetos de desenvolvimento de software.
