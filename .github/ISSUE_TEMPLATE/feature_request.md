@@ -29,8 +29,8 @@ Inclua capturas de tela ou diagramas que ajudem a visualizar a funcionalidade pr
 Forneça qualquer contexto adicional que você acredita ser relevante para a compreensão da solicitação.
 
 # Checklist:
-[   ] Eu verifiquei se esta funcionalidade ainda não foi solicitada.
-[   ] Eu li as diretrizes de contribuição e estou seguindo-as.
+- [   ] Eu verifiquei se esta funcionalidade ainda não foi solicitada.
+- [   ] Eu li as diretrizes de contribuição e estou seguindo-as.
 
 # Issue Relacionada (se existir)
 Indique se há uma issue relacionada a esta solicitação de funcionalidade.
