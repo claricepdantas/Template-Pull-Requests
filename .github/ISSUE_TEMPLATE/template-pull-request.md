@@ -1,6 +1,6 @@
 ---
-name: Bug report
-about: Create a report to Bug
+name: Template Pull Request
+about: Modelo de Pull Request
 title: ''
 labels: ''
 assignees: claricepdantas

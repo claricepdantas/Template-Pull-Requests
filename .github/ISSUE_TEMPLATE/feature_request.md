@@ -4,6 +4,7 @@ about: Sugira uma nova funcionalidade ou aprimoramento
 title: "[FUNCIONALIDADE] - "
 labels: enhancement
 assignees: ''
+
 ---
 
 ## Solicitação de Funcionalidade
