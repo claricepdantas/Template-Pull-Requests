@@ -7,34 +7,55 @@ assignees: claricepdantas
 
 ---
 
-name: Bug report
-about: Create a report to Bug
-title: ''
-labels: ''
-assignees: ''
+# Pull Request
 
----
+## Descrição
 
-name: Bug Report
-description: File a bug report
-title: "[Bug]: "
-labels: ["bug", "triage"]
-projects: ["nome do projeto"]
-assignees:
-  - nome do usuário
-body:
-  - type: markdown
-    attributes:
-      value: |
-        Thanks for taking the time to fill out this bug report!
-  - type: textarea
-    id: what-happened
-    attributes:
-      label: What is the scope of this change (e.g. component or file name):
-      description: Write a short, imperative tense description of the change.
-      placeholder: Are there any breaking changes?
-  - type: dropdown
-    id: version
-    attributes:
-      label: Version
-      description: Does this change affect any open issues?
+Descreva brevemente as alterações implementadas nesta solicitação de pull.
+
+## Problema
+
+Explique o problema ou a necessidade que essa solicitação de pull visa resolver.
+
+## Solução
+
+Descreva a solução implementada e como ela aborda o problema mencionado acima.
+
+## Alterações Propostas
+
+Liste as principais alterações realizadas no código.
+
+- [ ] Alteração 1
+- [ ] Alteração 2
+- [ ] ...
+
+## Testes Realizados
+
+Descreva os testes que foram realizados para garantir que as alterações não introduziram novos problemas.
+
+- [ ] Teste A
+- [ ] Teste B
+- [ ] ...
+
+## Capturas de Tela (se aplicável)
+
+Inclua capturas de tela relevantes, se necessário.
+
+## Checklist
+
+- [ ] Minhas alterações passaram nos testes locais.
+- [ ] Eu atualizei a documentação conforme necessário.
+- [ ] Os testes de unidade foram adicionados ou atualizados conforme necessário.
+- [ ] Eu li o guia de contribuição e segui as diretrizes.
+
+## Comentários Adicionais
+
+Forneça qualquer informação adicional que você julgar relevante.
+
+## Issue Relacionada
+
+Indique se há uma issue relacionada a este pull request.
+
+## Pontos de Atenção
+
+Destaque áreas específicas que podem precisar de revisão ou atenção extra.
